@@ -1,14 +1,6 @@
 # ☕ Lucas C. Gasparoto
 
 Sou um profissional de T.I apaixonado por tecnologia, desenvolvimento de sistemas e design gráfico. Trabalho com suporte técnico em hospitais, desenvolvimento de websites e aplicações, e criação de projetos digitais completos — do planejamento à implementação, sempre buscando soluções reais com eficiência e criatividade. Compartilho meus projetos e aprendizados para inspirar outros profissionais de tecnologia.
-
-<p align="left">
-   <a href="https://github.com/LucasCGasparoto">
-      <img alt="seguidores Github" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LucasCGasparoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/LucasCGasparoto?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucasCGasparoto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
 ---
 
 ### 🧰 Linguagens & Tecnologias
@@ -25,7 +17,8 @@ Sou um profissional de T.I apaixonado por tecnologia, desenvolvimento de sistema
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 ---
 
