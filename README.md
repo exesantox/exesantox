@@ -11,7 +11,7 @@ Sou um profissional de T.I apaixonado por tecnologia, desenvolvimento de sistema
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens & Tecnologias
 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -73,10 +73,4 @@ Todos os cursos concluídos:
 ### 📫 Contato
 
 - Email: santoxlucas02@gmail.com
-- LinkedIn: [linkedin.com/in/lucas-gasparoto]([https://linkedin.com/in/lucas-gasparoto](https://www.linkedin.com/in/lucas-c-gasparoto-9b5a12381/))
-
----
-
-### 📊 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCGasparoto&show_icons=true&theme=gruvbox)
+- Instagram: @exe.santox
